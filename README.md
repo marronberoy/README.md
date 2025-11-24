@@ -5,9 +5,9 @@
 
 `Full Name: Marron Beroy`
 
-`School and Program: New Era University`
+`School: New Era University`
 
-`Program - Bachelor Of Science in Computer Science`
+`Program: Bachelor Of Science in Computer Science`
 
 `2nd Year`
 
